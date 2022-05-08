@@ -1,0 +1,14 @@
+.main{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    width:75%;
+    margin-left:25% ;
+}
+#card{
+    margin:10px;
+    border-radius: 9px;
+    
+}
+.firstimage{
+    width:100%;
+}

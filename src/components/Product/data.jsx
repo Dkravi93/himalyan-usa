@@ -1,0 +1,18 @@
+export const Medoption=[
+    {value:"Blood Sugar",label:"Blood Sugar"},
+    {value:"Brain & Cognitive",label:"Brain & Cognitive"},
+    {value:"Digestion",label:"Digestion"},
+    {value:"Energy & Vitality",label:"Energy & Vitality"},
+    {value:"Hair, Skin & Nails",label:"Hair, Skin & Nails"},
+    {value:"Heart & Cardio",label:"Heart & Cardio"},
+    {value:"Immune Support",label:"Immune Support"},
+    {value:"Joint & Mobility",label:"Joint & Mobility"},
+    {value:"Liver & Cleanse",label:"Liver & Cleanse"},
+    {value:"Men's Wellness",label:"Men's Wellness"},
+    {value:"Respiratory",label:"Respiratory"},
+    {value:"Sleep",label:"Sleep"},
+    {value:"Stress & Mood",label:"Stress & Mood"},
+    {value:"Urinary",label:"Urinary"},
+    {value:"Weight Management",label:"Weight Management"},
+    {value:"Women's Wellness",label:"Women's Wellness"},
+]

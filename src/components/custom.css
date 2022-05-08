@@ -1,0 +1,31 @@
+.fig{
+ position:absolute;
+ bottom:13rem;
+ margin:0 -70rem;
+font-size: 1.3em;
+font-weight:bold;
+text-align: center;
+color:white;
+width:100%;
+
+}
+.position-relative{
+    width:100%;
+}
+.position-relative>img{
+    object-fit: cover;
+}
+@media only screen and (max-width:688px){
+    .fig{
+        font-size: 0.9em;
+        margin:0 -32rem;
+        font-weight:bold;
+        bottom:5rem;
+    }
+}
+@media only screen and (max-width:260px){
+    .fig{
+        font-size:0.5em;
+        margin:0 rem;
+    }
+}

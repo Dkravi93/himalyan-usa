@@ -1,0 +1,13 @@
+.dis{
+    width:30%;
+    margin: auto;
+    display: flex;
+}
+.im>img{
+  width:100%;
+
+}
+
+.dis>div{
+    margin:10px;
+}
