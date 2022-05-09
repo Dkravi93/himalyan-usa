@@ -26,6 +26,7 @@ function App() {
         <Route path="/bodycare:id" element={<Bodycaredetail/>}></Route>
         <Route path="/oralcare:id" element={<Oralcaredetail/>}></Route>
       </Routes>
+      <Footer/>
     </div>
   );
 }
