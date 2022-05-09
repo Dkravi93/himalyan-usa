@@ -1,6 +1,7 @@
 # himalyan-usa
 Himalaya's core interest has always been to ensure the health benefits of our herbal formulas and standalone solo herbs with product-specific, double-blind, placebo-controlled human clinical trials on all of our products.
 
+<img src="https://miro.medium.com/max/1400/1*wwdLi1JIi32QYOxS7AVAug.png">
 
 # Project Flow
 First user will visit Home page when user will see various trending products and directly buy them.On Hovering shop,User can see many products category and clicking on Products category name,user will be directed to Products page where user will have filter options.User Can filter by Price,Names,featured etc. User can change view of mode also by clicking on View modes available.User can see selected Number of items in Cart by selecting Number filter.User can add products in cart by clicking AddtoCart option or can visit respective Products page by clicking on any products page .On products Page,User can increase quantity or decrease by pressing + or - or can remove also by clicking on Delete icon.After every changes,user can click on Update cart to update Cart.User also get option to clearAll added products by clicking on clearrCart.Onclicking checkout page,user will be landed on Information page where user can sign in or sign up and fill require details and then can select Shipping method.After completing on steps,User will be on Payment Page where payments are required.After completing all steps,user will be on Thankyou page.
